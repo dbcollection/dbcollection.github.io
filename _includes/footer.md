@@ -5,5 +5,5 @@ dbcollection is [open source]({{ site.source_link }})
 Want to [contribute?](https://github.com/dbcollection/dbcollection#contributing)
 &mdash;
 Issue [tracker](https://github.com/dbcollection/dbcollection/issues)
-<!-- &mdash;
-Talk to us on [Gitter](TODO) -->
+&mdash;
+Talk to us on [Gitter](https://gitter.im/dbcollection/dbcollection)
