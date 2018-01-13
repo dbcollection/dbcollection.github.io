@@ -1,3 +1,3 @@
 dev:
-	jekyll serve
+	jekyll serve --watch --trace
 
