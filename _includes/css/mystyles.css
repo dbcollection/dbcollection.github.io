@@ -1,0 +1,25 @@
+.section-works i {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 16em;
+}
+
+.section-works img {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    height: 200px;
+}
+
+@media (max-width: 480px) {
+    .section-works i {
+        display: flex;
+        justify-content: space-between; /*  // flex-start | flex-end | center | space-around; */
+        align-items: stretch; /* // flex-start | flex-end | center | baseline; */
+        font-size: 12em;
+    }
+}
